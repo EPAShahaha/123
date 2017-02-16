@@ -1,2 +1,2 @@
-# 123
-NONONO
+#!/bin/bash
+echo hahahahh
